@@ -1,0 +1,46 @@
+body
+{
+	background: rgb(233, 151, 182);
+}
+button
+{
+    color: hotpink;
+    text-decoration-color: rgb(202, 125, 155);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: rgb(241, 174, 202);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+        font-family: fantasy;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+    color: deeppink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#number
+{
+	width: 60%;
+    color: fuchsia;
+}
+#number_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: rgb(245, 167, 204);
+border-radius: 10px;
+border-top: 10px solid #af1f4d;
+padding: 10px;
+float: none;
+text-align: left;
+font-family: fantasy;
+}
